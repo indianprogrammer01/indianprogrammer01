@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @indianprogrammer01
-- 👀 I’m interested in cybersecurity 
-- 🌱 I’m currently learning programming and lunix 
-- 💞️ I’m looking to collaborate on projects based on c/c++,organization for learning cybersecurity skills
+- 👋 Hi, I’m MANDEEP KUMAR,A STUDENT.
+- 👀 I’m currently learning programming. 
+- 💞️ I’m looking for projects based on c/c++.
 - 📫 How to reach me on instagram-
 https://www.instagram.com/mndeepbanihall03/?hl=en
 <!---
